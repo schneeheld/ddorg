@@ -1,0 +1,46 @@
+body {
+font-size:1em;
+font-family: 'Special Elite', cursive;
+background-color:#FFF;
+color: #000;
+}
+
+
+.captionGoogleFontA0 {
+font: 400 3em 'Special Elite', cursive;
+/* text-align: left; */
+/* border-left:23px solid #000; */
+/* padding-left:10px; */
+}
+
+
+.searchCaptionGoogleFontA2 {
+    font: 400 1.5em 'Special Elite', cursive;
+}
+
+
+.contentSearch {
+	position:relative;
+	left:20%;    
+	width:60%;
+	overflow:auto;
+	z-index:5;
+	padding-top:40px;
+	padding-bottom:40px;
+	border:0px solid #000;
+	border-radius:10px;
+  text-align:center;
+}
+
+.visitors {
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	border:solid 0px orange;
+	color:grey;
+	margin-top:0px;
+	font-size:10pt;
+	font-family:calibri,sans-serif;
+}
+
+
